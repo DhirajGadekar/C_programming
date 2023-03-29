@@ -9,9 +9,11 @@ A brief description of fundamentals of programming in C, including syntax, data 
 
 ## Content
 $Class Codes :
+
 1.DataTypes
 
 2.Operators :
+
      a.Bitwise Operator
      
      b.Logical Operator
