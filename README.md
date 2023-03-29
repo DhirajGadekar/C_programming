@@ -8,7 +8,7 @@ A brief description of fundamentals of programming in C, including syntax, data 
 
 
 ## Content
-$Class Codes :
+**Class Codes :**
 
 1.DataTypes
 
@@ -24,7 +24,7 @@ $Class Codes :
      
      e.Miscellaneous Operator
      
-$Assignments : 
+**Assignments :**
 
 ## Contributor :  
 
