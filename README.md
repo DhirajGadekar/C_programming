@@ -10,19 +10,14 @@ A brief description of fundamentals of programming in C, including syntax, data 
 ## Content
 **Class Codes :**
 
-1.DataTypes
-
-2.Operators :
-
-     a.Bitwise Operator
+     1.DataTypes :
      
-     b.Logical Operator
-     
-     c.Relational Operator
-     
-     d.Unary Operator
-     
-     e.Miscellaneous Operator
+     2.Operators :
+          a.Bitwise Operator
+          b.Logical Operator
+          c.Relational Operator
+          d.Unary Operator
+          e.Miscellaneous Operator
      
 **Assignments :**
 
