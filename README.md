@@ -18,7 +18,10 @@ A brief description of fundamentals of programming in C, including syntax, data 
           c.Relational Operator
           d.Unary Operator
           e.Miscellaneous Operator
-     
+     3.Statemenst :
+          a.If-else
+          b.Switch
+          
 **Assignments :**
 
 ## Contributor :  
