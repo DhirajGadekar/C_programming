@@ -23,7 +23,11 @@ A brief description of fundamentals of programming in C, including syntax, data 
           a.If-else
           b.Switch
           
-     4.Break & Continue :     
+     4.Break & Continue :    
+     
+     5.Loops :
+          a.For Loop
+          
           
 **Assignments :**
 
