@@ -31,8 +31,9 @@ A brief description of fundamentals of programming in C, including syntax, data 
           
 **Assignments :**
 
-     1. 0_Basic Assignment
-     2. 1_Basic Assignment
+     1. Assignment No 0
+     2. Assignment No 1
+     3. Assignment No 2
 
 ## Contributor :  
 
