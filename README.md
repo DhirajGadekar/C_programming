@@ -27,6 +27,7 @@ A brief description of fundamentals of programming in C, including syntax, data 
      
      5.Loops :
           a.For Loop
+          b.While Loop
           
           
 **Assignments :**
