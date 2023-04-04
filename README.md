@@ -42,6 +42,13 @@ A brief description of fundamentals of programming in C, including syntax, data 
      8. Assignment No 7
      9. Assignment No 8
      10.Assignment No 9
+     
+**Extra Session Codes :**
+
+     1. Session 1
+     2. Session 2
+     3 .Session 3
+     
 
 ## Contributor :  
 
