@@ -29,6 +29,8 @@ A brief description of fundamentals of programming in C, including syntax, data 
           a.For Loop
           b.While Loop
           
+     6.Array :     
+          
           
 **Assignments :**
 
@@ -42,13 +44,17 @@ A brief description of fundamentals of programming in C, including syntax, data 
      8. Assignment No 7
      9. Assignment No 8
      10.Assignment No 9
+     11.Assignment NO 10
+     12.Assignment No 11
      
 **Extra Session Codes :**
 
      1. Session 1
      2. Session 2
-     3 .Session 3
-     
+     3. Session 3
+     4. Session 4
+     5. Session 5
+     6. Session 6
 
 ## Contributor :  
 
