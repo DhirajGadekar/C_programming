@@ -55,6 +55,9 @@ A brief description of fundamentals of programming in C, including syntax, data 
      4. Session 4
      5. Session 5
      6. Session 6
+     7. Session 7
+     8. Session 8
+     9. Session 9
 
 ## Contributor :  
 
