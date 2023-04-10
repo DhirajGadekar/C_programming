@@ -58,6 +58,12 @@ A brief description of fundamentals of programming in C, including syntax, data 
      7. Session 7
      8. Session 8
      9. Session 9
+     10.Session 10
+     11.Session 11
+     12.Session 12
+     13.Session 13
+     14.Session 14
+    
 
 ## Contributor :  
 
