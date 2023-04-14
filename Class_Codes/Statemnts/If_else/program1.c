@@ -4,7 +4,7 @@ void main(){
 	
 	int x;
 	printf("Enter the value : ");
-	scanf("%d",x);
+	scanf("%d",&x);
 
 	switch(x){
 		
@@ -12,7 +12,7 @@ void main(){
 			printf("One \n");
 			break;
 		
-		case 2;
+		case 2:
 			printf("Two \n");
 			break;
 
